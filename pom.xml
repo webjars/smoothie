@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>smoothie</artifactId>
-    <version>1.24</version>
+    <version>1.24-SNAPSHOT</version>
     <name>Smoothie Charts</name>
     <description>WebJar for Smoothie Charts</description>
     <url>http://webjars.org</url>
@@ -33,9 +33,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/SuperTux88/smoothie-webjar</url>
-        <connection>scm:git:https://github.com/SuperTux88/smoothie-webjar.git</connection>
-        <developerConnection>scm:git:https://github.com/SuperTux88/smoothie-webjar.git</developerConnection>
+        <url>https://github.com/webjars/smoothie-webjar</url>
+        <connection>scm:git:https://github.com/webjars/smoothie-webjar.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/smoothie-webjar.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     
@@ -56,7 +56,7 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>wagon-maven-plugin</artifactId>
-                <version>1.0-beta-4</version>
+                <version>1.0-beta-5</version>
                 <executions>
                     <execution>
                         <id>download-full-js</id>
