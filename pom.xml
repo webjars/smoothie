@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>smoothie</artifactId>
-    <version>1.24</version>
+    <version>1.25-SNAPSHOT</version>
     <name>Smoothie Charts</name>
     <description>WebJar for Smoothie Charts</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>https://github.com/webjars/smoothie</url>
         <connection>scm:git:https://github.com/webjars/smoothie.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/smoothie.git</developerConnection>
-        <tag>smoothie-1.24</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
