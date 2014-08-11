@@ -33,9 +33,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/webjars/smoothie-webjar</url>
-        <connection>scm:git:https://github.com/webjars/smoothie-webjar.git</connection>
-        <developerConnection>scm:git:https://github.com/webjars/smoothie-webjar.git</developerConnection>
+        <url>https://github.com/webjars/smoothie</url>
+        <connection>scm:git:https://github.com/webjars/smoothie.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/smoothie.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     
